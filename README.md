@@ -7,3 +7,5 @@
 [practice1](https://artamonovanatoly.github.io/src/)- практика1
 
 [lesson14](https://ArtamonovAnatoly.github.io/fonts-viewer)-homework14
+
+[practice2](https://artamonovanatoly.github.io/src/)- практика2
